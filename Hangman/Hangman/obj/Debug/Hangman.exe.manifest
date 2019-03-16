@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Hangman.exe" size="129456">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Hangman.exe" size="108976">
       <assemblyIdentity name="Hangman" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>6eXNzv50Zs55TcH3UMfJU8r9TTbZ5L60eD2SBf/dRWI=</dsig:DigestValue>
+        <dsig:DigestValue>z7ru5GQpRMTij2J1AGo4Qg10YH4gCSQ8WooREyhqOjg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

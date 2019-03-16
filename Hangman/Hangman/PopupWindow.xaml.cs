@@ -39,7 +39,7 @@ namespace Hangman
 
         private void BtnNext_Click(object sender, RoutedEventArgs e)
         {
-            this.Hide();
+            this.Close();
         }
     }
 }

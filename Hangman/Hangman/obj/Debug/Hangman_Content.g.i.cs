@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("xml.xml")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("hardwords.txt")]
 
 

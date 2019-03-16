@@ -30,7 +30,7 @@
             <TextBox x:Name="txt18" HorizontalAlignment="Left" Height="25" Margin="319,274,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="25" FontSize="12" TextAlignment="Center" IsEnabled="False" Foreground="#FF0D47A1" Background="{x:Null}" BorderBrush="#FF0D47A1" FontFamily="Noto Sans"/>
             <TextBox x:Name="txt19" HorizontalAlignment="Left" Height="25" Margin="347,274,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="25" FontSize="12" TextAlignment="Center" IsEnabled="False" Foreground="#FF0D47A1" Background="{x:Null}" BorderBrush="#FF0D47A1" FontFamily="Noto Sans"/>
         </Grid>
-        <Grid x:Name="grdButtons" HorizontalAlignment="Left" Height="469" VerticalAlignment="Top" Width="492" Margin="0,7,0,-7">
+        <Grid x:Name="grdButtons" HorizontalAlignment="Left" Height="469" VerticalAlignment="Top" Width="492" Margin="0,7,0,0">
             <Button x:Name="btnQ" Content="Q" HorizontalAlignment="Left" Margin="105,339,0,0" VerticalAlignment="Top" Width="25" Height="25" RenderTransformOrigin="0.5,0.5" Click="BtnQ_Click" Background="{x:Null}" BorderBrush="#FF0D47A1" Foreground="#FF0D47A1" FontFamily="Noto Sans"/>
             <Button x:Name="btnW" Content="W" HorizontalAlignment="Left" Margin="133,339,0,0" VerticalAlignment="Top" Width="25" Height="25" RenderTransformOrigin="0.5,0.5" Click="BtnW_Click" Background="{x:Null}" BorderBrush="#FF0D47A1" Foreground="#FF0D47A1" FontFamily="Noto Sans"/>
             <Button x:Name="btnE" Content="E" HorizontalAlignment="Left" Margin="161,339,0,0" VerticalAlignment="Top" Width="25" Height="25" RenderTransformOrigin="0.5,0.5" Click="BtnE_Click" Background="{x:Null}" BorderBrush="#FF0D47A1" Foreground="#FF0D47A1" FontFamily="Noto Sans"/>
